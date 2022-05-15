@@ -1,0 +1,34 @@
+1 sol.py
+(a)The length of the string = 35
+(b)The reversed string is  egaugnal evitisnes esac a si nohtyP
+(e)The index of substring a = 10
+(f)The original string after removing whitespace is Pythonisacasesensitivelanguage
+
+2sol.py
+Enter your Name Hemant Sharma
+Enter your SID 21102103
+Enter your Department civil
+Enter your CGPA 9
+Hey, Hemant Sharma Here!
+ My SID is  21102103
+I am from  civil and my CGPA is  9.0
+
+3sol.py
+a.  8
+b.  58
+c.  50
+d. Left shift both a and b with 2 bits respectively are : 224 40
+e. Right shift a with 2 bits and b with 4 bits respectively are :  14 0
+
+4sol.py
+
+
+5sol.py
+Enter the first side of a triangle- 10
+Enter the second side of a triangle- 40
+Enter the third side of a triangle- 20
+No
+
+6sol.py
+Enter the value of A and B:60 90
+Number of bits needed to be flipped to convert a to b is: 4)
