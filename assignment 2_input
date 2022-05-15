@@ -29,14 +29,6 @@ print("e. Right shift a with 2 bits and b with 4 bits respectively are : ", a >>
 print("\n")
 
 # QUESTION 4
-a=int(input('Enter first number= '))
-b=int(input('Enter second number='))
-c=int(input('Enter third number= '))
-list1=[a,b,c]
-print('The largest number is',max(list1))
-print("\n")
-
-# QUESTION 5
 i = input("Enter the string-")
 if 'name' in i:
     print("Yes")
@@ -44,7 +36,7 @@ else:
     print("No")
 print("\n")
 
-# QUESTION 6
+# QUESTION 5
 p = int(input("Enter the first side of a triangle= "))
 q = int(input("Enter the second side of a triangle= "))
 r = int(input("Enter the third side of a triangle= "))
@@ -53,3 +45,14 @@ if ((p + q) > r and (q + r) > p and (r + p) > q and p > 0 and q > 0 and r > 0):
     print("Yes")
 else:
     print("No")
+
+# QUESTION 6
+#Take input from user
+input_statement = str(input("Please type a statement:\n"))
+
+#Condition to find "name"
+if "name" in input_statement:
+    print("Yes")
+else:
+    print("No")
+
