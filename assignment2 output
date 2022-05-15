@@ -21,7 +21,9 @@ d. Left shift both a and b with 2 bits respectively are : 224 40
 e. Right shift a with 2 bits and b with 4 bits respectively are :  14 0
 
 4sol.py
-
+Please type a statement:
+name
+Yes
 
 5sol.py
 Enter the first side of a triangle- 10
