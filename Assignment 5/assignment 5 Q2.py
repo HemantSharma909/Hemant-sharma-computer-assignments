@@ -1,22 +1,8 @@
 # Question 2
 
-# print() creates a space in between lines while execution of codes making them easier to read
-print()
-range_1 = int(input("Enter the initial number of range :\n"))
-print()
-range_2 = int(input("Enter the last(ending) number of range :\n"))
-print()
-a = 1
-number = int(input("Enter the divisor for entered range :\n"))
-
-print()
-
-print("Numbers divisile in the range are :")
-
-for i in range(range_1,range_2):
-    if i % number == 0:
-        print(a,")",i)
-        print()
-    else:
-        continue
-    a = a + 1 
+x=int(input("Enter the smallest no. of the range="))
+y=int(input("enter the largest no. of the range="))
+z=int(input("enter the no you want to divide the particular range with="))
+for i in range(x,y+1):
+    if i%z==0:
+        print(i)
